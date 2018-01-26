@@ -46,6 +46,5 @@ public class Main {
 
         VaTest(42);
 
-
     }
 }
